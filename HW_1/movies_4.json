@@ -1,0 +1,58 @@
+{
+    "Title": [
+        "Inception",
+        "Inception",
+        "Interstelar",
+        "Titanic",
+        "Shrek",
+        "N/A"
+    ],
+    "Genre": [
+        "SciFi",
+        "Sci-Fi",
+        "Sci-Fi",
+        "Romance",
+        "Animatn",
+        null
+    ],
+    "Year": [
+        2010,
+        "2010",
+        2014,
+        1997,
+        "01",
+        null
+    ],
+    "Rating": [
+        8.8,
+        "8.8",
+        8.6,
+        "seven point eight",
+        null,
+        null
+    ],
+    "Actors": [
+        "Leonardo DiCaprio, Joseph Gordon-Levitt",
+        null,
+        "Matthew McConaughey, Anne Hathaway",
+        "Leonardo DiCaprio, Kate Winslet",
+        null,
+        "Unknown"
+    ],
+    "Runtime": [
+        148,
+        148,
+        "1 hour 49 min",
+        null,
+        "90 mins",
+        null
+    ],
+    "BoxOffice": [
+        829895144,
+        null,
+        "unknown",
+        2187463944,
+        null,
+        null
+    ]
+}

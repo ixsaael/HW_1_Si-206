@@ -1,0 +1,44 @@
+{
+    "Title": [
+        "Inception",
+        "The Matrix",
+        "Interstellar",
+        "Titanic",
+        null
+    ],
+    "Genre": [
+        "Sci-Fi",
+        "Sci-Fi",
+        null,
+        "Romance",
+        "Animation"
+    ],
+    "Year": [
+        2010,
+        1999,
+        2014,
+        null,
+        "2001"
+    ],
+    "Rating": [
+        8.8,
+        8.7,
+        8.6,
+        7.8,
+        null
+    ],
+    "Actors": [
+        "Leonardo DiCaprio, Joseph Gordon-Levitt",
+        "Keanu Reeves, Laurence Fishburne",
+        null,
+        "Leonardo DiCaprio, Kate Winslet",
+        "Mike Myers, Eddie Murphy"
+    ],
+    "Runtime": [
+        148,
+        null,
+        169,
+        195,
+        "90 minutes"
+    ]
+}
